@@ -1,2 +1,2 @@
-let M = "Holà !"
-window.alert(M)
+let M = "Holà !";
+alert(M);
